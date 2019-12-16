@@ -51,3 +51,8 @@ cat access.log | grep "177.138.28.7" | head -n1
 ```
 cat access.log | grep "177.138.28.7" | tail -n1
 ```
+
+Formato de resposta
+```
+13/Feb/2015:00:21:12,13/Feb/2015:08:58:35
+```
