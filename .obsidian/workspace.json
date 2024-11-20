@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "f11d57df604a3794",
+    "type": "split",
+    "children": [
+      {
+        "id": "84db005dcbc48108",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72f2c9463b2bac84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hackingclub/machines/easy/lion/lion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lion"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33264ec59632450a",
+    "type": "split",
+    "children": [
+      {
+        "id": "005557749a1e3cdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0388d78a09ae478",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7a96ce1114a922db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d13189e87c2e9245",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d11da12eb6d13bcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b8cbd22d9f3f74a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b4e41c645a69f17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hackingclub/machines/easy/lion/lion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for lion"
+            }
+          },
+          {
+            "id": "8c13d69bf3d8d7f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hackingclub/machines/easy/lion/lion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from lion"
+            }
+          },
+          {
+            "id": "6dcb4cd08344d6a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e8059e33b14ce0db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hackingclub/machines/easy/lion/lion.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of lion"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "72f2c9463b2bac84",
+  "lastOpenFiles": [
+    "hackingclub/machines/easy/reader/reader.md",
+    "hackingclub/machines/easy/lion/lion.md",
+    "hackingclub/machines/easy/lion",
+    "hackingclub/machines/easy/reader/burp-shell-request.png",
+    "hackingclub/machines/easy/reader"
+  ]
+}
