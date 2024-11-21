@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hackingclub/machines/easy/lion/lion.md",
+                "file": "hackingclub/machines/easy/calc/calc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lion"
+              "title": "calc"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hackingclub/machines/easy/lion/lion.md",
+                "file": "hackingclub/machines/easy/calc/calc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lion"
+              "title": "Backlinks for calc"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hackingclub/machines/easy/lion/lion.md",
+                "file": "hackingclub/machines/easy/calc/calc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lion"
+              "title": "Outgoing links from calc"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hackingclub/machines/easy/lion/lion.md"
+                "file": "hackingclub/machines/easy/calc/calc.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of lion"
+              "title": "Outline of calc"
             }
           }
         ]
@@ -164,8 +164,10 @@
   },
   "active": "72f2c9463b2bac84",
   "lastOpenFiles": [
-    "hackingclub/machines/easy/reader/reader.md",
     "hackingclub/machines/easy/lion/lion.md",
+    "hackingclub/machines/easy/calc/calc.md",
+    "hackingclub/machines/easy/calc",
+    "hackingclub/machines/easy/reader/reader.md",
     "hackingclub/machines/easy/lion",
     "hackingclub/machines/easy/reader/burp-shell-request.png",
     "hackingclub/machines/easy/reader"
